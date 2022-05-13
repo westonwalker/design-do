@@ -1,6 +1,6 @@
 # design-do
 
-A simple static HTMl app with some design tips.
+A simple static HTML app with some design tips.
 
 Uses:
 - Tailwind CSS
